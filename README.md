@@ -15,3 +15,9 @@ This repository contains a Python script that facilitates the sending of emails 
 9. In the same .env.example file, set the SENDER_EMAIL and RECEIVER_EMAIL variables with your desired email addresses.
 10. To send a pre-defined email, modify the subject and body in the send-email.py script and run it.
 11. Alternatively, to send emails with dynamic content, run the send-email-dynamic-input.py script, and input the email subject and body when prompted.
+
+### Sending the email for the CLI:
+![src/email-sending.png](src/email-sending.png)
+
+### Reciving the email in the Gmail Inbox
+![src/email-received.png](src/email-received.png)
