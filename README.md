@@ -4,7 +4,7 @@ This repository contains a Python script that facilitates the sending of emails 
 
 ## Getting Started 
 
-1. Navigate to [Gmail]([www.gmail.com](https://mail.google.com/mail/u/0/#inbox)) and log in.
+1. Navigate to [Gmail](https://mail.google.com/mail/u/0/#inbox) and log in.
 2. Click on your profile picture in the top right corner.
 3. Select "Manage your Google Account" from the dropdown menu.
 4. In the left-hand menu, click on "Security."
