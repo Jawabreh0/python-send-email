@@ -9,7 +9,7 @@ This repository contains a Python script that facilitates the sending of emails 
 3. Select "Manage your Google Account" from the dropdown menu.
 4. In the left-hand menu, click on "Security."
 5. In the "How you sign in to Google" section, check if 2-Step Verification (2FA) is enabled. If not, enable it to proceed.
-6. Visit [Gmail Apps(https://mail.google.com/mail/u/0/#inbox)
+6. Visit [Gmail Apps](https://mail.google.com/mail/u/0/#inbox)
 7. Under 'Select app', choose 'Other', type a custom name (e.g., Python Email App), and then click 'Generate'.
 8. Copy the generated app password and paste it into your .env.example file under the GMAIL_APP_PASSWORD variable.
 9. In the same .env.example file, set the SENDER_EMAIL and RECEIVER_EMAIL variables with your desired email addresses.
