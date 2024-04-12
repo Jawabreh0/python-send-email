@@ -1,0 +1,3 @@
+# Send Email With Python
+
+This repository contains a Python script that facilitates the sending of emails directly from the command line. Leveraging the power of Python's smtplib and email libraries, the script provides a user-friendly interface to compose and send emails with SSL encryption for enhanced security. It includes features such as loading credentials from environment variables via the python-dotenv package, robust error handling, and logging for effective troubleshooting and operational visibility. Ideal for automating email notifications, this script offers a scalable and secure solution for integrating email functionalities into Python applications.
